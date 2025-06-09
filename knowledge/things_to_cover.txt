@@ -1,0 +1,41 @@
+## Details to be included in a Sales Proposal
+
+**1. Understanding Their Business Context:**
+
+* **Company Overview:** Size, industry, primary products/services, market position, key locations.
+* **Strategic Goals:** What are their major business objectives for the next year/quarter? (e.g., increase market share, reduce operational costs, improve customer satisfaction, launch new products).
+* **Organizational Structure:** Relevant departments, key teams involved, reporting lines (helps understand influence and decision paths).
+
+**2. Identifying the Core Problem/Need (The "Pain"):**
+
+* **Specific Challenges:** What specific problems, inefficiencies, or pain points are they experiencing *that your solution could potentially address*? Get them to articulate this clearly.
+* **Root Cause:** *Why* is this problem occurring? What is driving the need?
+* **Impact:** What is the *business impact* of this problem? (Quantify if possible: Lost revenue, increased costs, wasted time, compliance risks, poor customer experience, employee frustration). This is GOLD for building your value proposition.
+
+**3. Defining Their Desired State & Goals (The "Gain"):**
+
+* **Objectives for *This* Project/Initiative:** What specifically do they hope to achieve by implementing a solution like yours?
+* **Success Metrics:** How will they measure success? What specific Key Performance Indicators (KPIs) will improve? (e.g., "reduce process time by X%", "increase sales conversion by Y%", "achieve Z score in customer satisfaction").
+* **Vision of the Future:** What does the ideal outcome look like for them once the problem is solved?
+
+**4. Understanding Their Current Situation & Processes:**
+
+* **Current Tools/Systems:** What are they using now to address this area (even if it's manual processes, spreadsheets, or a competitor's tool)?
+* **Current Process:** How does the relevant workflow operate today? Who is involved? What are the steps?
+* **What Works/Doesn't Work:** What do they like or dislike about their current approach?
+
+**5. Defining Solution Requirements:**
+
+* **Functional Needs:** What specific capabilities or features *must* the solution have? (Must-haves vs. Nice-to-haves).
+* **Technical Requirements:** Any specific technical constraints, integration needs (e.g., must integrate with Salesforce, requires specific security protocols), infrastructure details.
+* **User Information:** Who will be using the solution? How many users? What are their technical skills?
+
+**6. Understanding the Decision-Making Process:**
+
+* **Decision Criteria:** What factors are most important to them when making this decision (e.g., price, specific features, ease of implementation, support, vendor reputation, ROI)?
+
+**7. Budget and Investment:**
+
+* **Budget Availability:** Is there a budget allocated for this? Is it formal or informal?
+* **Budget Range:** What are their expectations regarding investment? (This can be sensitive, approach tactfully – sometimes focusing on the *cost of inaction* helps frame value).
+* **Funding Source:** Where is the budget coming from (e.g., operational, capital expenditure)?
